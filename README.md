@@ -22,3 +22,9 @@ The Variants
 * [Farkle-Craps-Odds.ods](docs/Farkle-Craps-Odds.ods): (OpenOffice spreadsheet) Calcuation of betting odds
 * [Farkle-Craps-Chip-Counts.ods](docs/Farkle-Craps-Chip-Counts.ods): (OpenOffice spreadsheet) Rough calculation of poker chip counts required
     * I think I prefer a paper tally of total scores to poker chips at this point
+
+
+License
+----------------
+
+[CC BY-SA](LICENSE)
