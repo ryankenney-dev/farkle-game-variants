@@ -30,11 +30,11 @@ Setup
 
 Set out the game board:
 
-* [3-Kind-Corner-Turn.pdf](boards/Board_3-Kind-Corner-Turn.pdf)
-* [4-Kind-Fakle.pdf](boards/Board_4-Kind-Fakle.pdf)
-* [Bonus-Dice-Max-Bet.pdf](boards/Board_Bonus-Dice-Max-Bet.pdf)
-* [Secret-Attack.pdf](boards/Board_Secret-Attack.pdf)
-* [Triples.pdf](boards/Board_Triples.pdf)
+* [3-Kind-Corner-Turn.pdf](../boards/Board_3-Kind-Corner-Turn.pdf)
+* [4-Kind-Fakle.pdf](../boards/Board_4-Kind-Fakle.pdf)
+* [Bonus-Dice-Max-Bet.pdf](../boards/Board_Bonus-Dice-Max-Bet.pdf)
+* [Secret-Attack.pdf](../boards/Board_Secret-Attack.pdf)
+* [Triples.pdf](../boards/Board_Triples.pdf)
 
 Assign players unique markers for betting
 
