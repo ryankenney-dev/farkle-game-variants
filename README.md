@@ -27,4 +27,4 @@ The Variants
 License
 ----------------
 
-[CC BY-SA](LICENSE)
+[CC BY-NC](LICENSE)
