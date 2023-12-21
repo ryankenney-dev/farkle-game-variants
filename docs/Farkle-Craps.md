@@ -5,14 +5,12 @@ Equipment Needed
 ----------------
 
 * A printout of the PDF game board
-* Poker chips or monopoly money for placing bets on the table
-    * Approximately $1000 per player, in $100 increments
+* Poker chips or monopoly money for placing tracing score and making betsbets on the table
+    * See [Poker Chip Counts](Poker-Chip-Counts.md)
 * Some way to differentiating bets on the table
     * If the betting objects (poker chips) are simply color coded per player, you're good to go
     * Scrabble tiles can be nice to set on top of bets (e.g. Ryan uses `R` tiles as markers)
 * One marker for the "Max Bet" square
-* If playing Fakle Attack rules at the same time,
-  the additional 3 dice must be uniquely identifiable (unique color, etc)
 
 
 Objective
@@ -80,6 +78,25 @@ immediately following any payout on the bet
 
 Wagers on the table count as part of each player's total score
 
+If playing [Fakle Attack](Farkle-Attack.md) rules at the same time,
+any player turn that uses additional dice or is short a die is completely
+ignored for all Farkle Craps rules
+
+
+Max Bet
+----------------
+
+At the end of every player's turn, the indicator is placed on the Max Bet,
+per this:
+
+* 500: If the last player turned the corner on their turn
+* 100: If the last player failed to turn the corner on their turn
+
+This indicotor is the maximum amount of betting each player can add between turns.
+If Max Bet is a 500, players may split this across multiple wagers.
+
+The purpose of Max Bet is to limit how quickly bets (and game swings) can grow.
+
 
 Bet Expirations
 ----------------
@@ -109,18 +126,18 @@ Specific Bets
 ----------------
 
 * **Farkle**: The player rolls all six dice for zero points
-  (on the first roll, ignoring extra dice)
+  (on the first roll)
  
    * A 5-die role (due to Fakle Attack rules) does not count for this
 
 * **Triples**: The player rolls three or more matching dice of the specified value
-  (on the first roll, ignoring extra dice)
+  (on the first roll)
 
 * **3 of Kind**: The player rolls three or more matching dice
-  (on the first roll, ignoring extra dice)
+  (on the first roll)
 
 * **4 of Kind**: The player rolls four or more matching dice
-  (on the first roll, ignoring extra dice)
+  (on the first roll)
 
 * **Corner Turn**: The player successfully completes a corner turn before the end of their turn
 
@@ -130,7 +147,7 @@ Secret Attack
 
 The bets on this sheet are very different than the rest.
 
-Each player may have at most 2 bets in this section.
+Each player may place at most 2 bets in this section during the entire game.
 
 To place a bet, write on note card:
 
