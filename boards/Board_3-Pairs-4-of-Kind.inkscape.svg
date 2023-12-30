@@ -7,7 +7,7 @@
    viewBox="0 0 297 420"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="2023-12-06_Farkle-Layout_4-Kind-Fakle.inkscape.svg"
+   sodipodi:docname="Board_3-Pairs-4-of-Kind.inkscape.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.30666037"
-     inkscape:cx="551.09827"
-     inkscape:cy="849.47396"
+     inkscape:cx="498.92329"
+     inkscape:cy="826.64741"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="1400"
      inkscape:window-y="1080"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g31233"
      showguides="false" />
   <defs
      id="defs890">
@@ -94,9 +94,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16015);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="953.88867"
          y="1387.5371"
-         id="tspan1956"><tspan
+         id="tspan20813"><tspan
            style="font-size:140px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan1954">3</tspan></tspan></text>
+           id="tspan20811">3</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -104,9 +104,9 @@
        style="fill:#000000;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:140px;white-space:pre;shape-inside:url(#rect21481);-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
          x="983.25391"
          y="1271.9805"
-         id="tspan1960"><tspan
+         id="tspan20817"><tspan
            dx="0 89.072266 89.072266 89.072266 89.072266 89.072266"
-           id="tspan1958">123213</tspan></tspan></text>
+           id="tspan20815">123213</tspan></tspan></text>
     <g
        id="g31244"
        transform="translate(0.86392593)">
@@ -145,7 +145,7 @@
          y="0"><tspan
            x="632.97656"
            y="-302.33789"
-           id="tspan1962">3</tspan></text>
+           id="tspan20819">3</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-44.374288,336.97581)"
@@ -155,7 +155,7 @@
          y="0"><tspan
            x="320.14453"
            y="-302.33789"
-           id="tspan1964">4 of Kind</tspan></text>
+           id="tspan20821">4 of Kind</tspan></text>
     </g>
     <g
        id="g31233"
@@ -172,23 +172,28 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2974px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.382437"
          x="251.66618"
-         y="161.19756"
+         y="141.91386"
          id="text3001-1"><tspan
-           sodipodi:role="line"
-           id="tspan9248"
-           x="251.66618"
-           y="161.19756"
-           style="text-align:end;text-anchor:end;stroke-width:0.382437">1 roll: 2.3%</tspan><tspan
-           sodipodi:role="line"
-           id="tspan9250"
-           x="251.66618"
-           y="180.31931"
-           style="text-align:end;text-anchor:end;stroke-width:0.382437">5 rolls: 11%</tspan><tspan
            sodipodi:role="line"
            id="tspan9252"
            x="251.66618"
-           y="199.44106"
-           style="text-align:end;text-anchor:end;stroke-width:0.382437">10 rolls: 21%</tspan></text>
+           y="141.91386"
+           style="text-align:end;text-anchor:end;stroke-width:0.382437" /><tspan
+           sodipodi:role="line"
+           x="251.66618"
+           y="161.03561"
+           style="text-align:end;text-anchor:end;stroke-width:0.382437"
+           id="tspan13604">1 roll: 3.9%</tspan><tspan
+           sodipodi:role="line"
+           x="251.66618"
+           y="180.15736"
+           style="text-align:end;text-anchor:end;stroke-width:0.382437"
+           id="tspan13606">5 rolls: 18%</tspan><tspan
+           sodipodi:role="line"
+           x="251.66618"
+           y="199.27911"
+           style="text-align:end;text-anchor:end;stroke-width:0.382437"
+           id="tspan13608">10 rolls: 33%</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,68.665802,163.72857)"
@@ -198,7 +203,7 @@
          y="0"><tspan
            x="632.97656"
            y="-302.33789"
-           id="tspan1966">6</tspan></text>
+           id="tspan20823">6</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-45.507758,164.28668)"
@@ -208,7 +213,7 @@
          y="0"><tspan
            x="320.14453"
            y="-302.33789"
-           id="tspan1968">Farkle</tspan></text>
+           id="tspan20825">3 Pairs</tspan></text>
     </g>
   </g>
 </svg>

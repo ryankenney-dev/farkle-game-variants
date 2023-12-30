@@ -29,7 +29,7 @@ Setup
 Set out the game board:
 
 * [3-Kind-Corner-Turn.pdf](../boards/Board_3-Kind-Corner-Turn.pdf)
-* [4-Kind-Fakle.pdf](../boards/Board_4-Kind-Fakle.pdf)
+* [3-Pairs-4-of-Kind.pdf](../boards/Board_3-Pairs-4-of-Kind.pdf)
 * [Bonus-Dice-Max-Bet.pdf](../boards/Board_Bonus-Dice-Max-Bet.pdf)
 * [Secret-Attack.pdf](../boards/Board_Secret-Attack.pdf)
 * [Triples.pdf](../boards/Board_Triples.pdf)
@@ -78,9 +78,13 @@ immediately following any payout on the bet
 
 Wagers on the table count as part of each player's total score
 
-If playing [Fakle Attack](Farkle-Attack.md) rules at the same time,
-any player turn that uses additional dice or is short a die is completely
-ignored for all Farkle Craps rules
+
+Versus Farkle Attack
+----------------
+
+If you play [Fakle Attack](Farkle-Attack.md) rules at the same time as
+this variant, ignore all bets (and expirations) on any turn that
+a player rolls a non-standard number of dice.
 
 
 Max Bet
@@ -159,7 +163,7 @@ As usual, players may add/replace bets in this section between player turns.
 * Any time a wager is modified, the player's current total core (front of card)
   **must** be updated
 
-The bets are resolved any time a 6 die roll (ignoring bonus dice) matches (including corner turns)
+The bets are resolved (and discarded) any time a 6 die roll matches (including corner turns)
 
 * These bets are resolve after all other payouts
 
@@ -175,7 +179,6 @@ Resolving the Secret Attack bets:
 
     * If the betting player's actual current score is equal to or greater
       than "required score", then the target player (back of card)
-      lose the value of the wager (back of card) to the bank
+      loses the value of the wager (back of card) to the bank
 
     * Discard the bet
-
