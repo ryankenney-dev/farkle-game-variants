@@ -19,8 +19,9 @@ The Variants
 
 [Farkle Craps](docs/Farkle-Craps.md): Allows betting during other players' turns.
 
+* [Poker Chip Counts](docs/Poker-Chip-Counts.md)
+    * [Farkle-Craps-Chip-Counts.ods](docs/Farkle-Craps-Chip-Counts.ods): (OpenOffice spreadsheet) Rough calculation of poker chip counts required
 * [Farkle-Craps-Odds.ods](docs/Farkle-Craps-Odds.ods): (OpenOffice spreadsheet) Calcuation of betting odds
-* [Farkle-Craps-Chip-Counts.ods](docs/Farkle-Craps-Chip-Counts.ods): (OpenOffice spreadsheet) Rough calculation of poker chip counts required
 
 
 License

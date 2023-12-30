@@ -129,16 +129,11 @@ is awarded before the bets are wiped
 Specific Bets
 ----------------
 
-* **Farkle**: The player rolls all six dice for zero points
-  (on the first roll)
- 
-   * A 5-die role (due to Fakle Attack rules) does not count for this
+* **3 of Kind**: The player rolls three or more matching dice
 
 * **Triples**: The player rolls three or more matching dice of the specified value
-  (on the first roll)
 
-* **3 of Kind**: The player rolls three or more matching dice
-  (on the first roll)
+* **3 Pairs**: The player rolls 2 sets of 3 of a kind (or a six of a kind)
 
 * **4 of Kind**: The player rolls four or more matching dice
   (on the first roll)
